@@ -17,7 +17,7 @@ public class Bienvenida extends JFrame implements ActionListener{
     getContentPane().setBackground(new Color(0,0,255));
     
     // Imagen del logo
-    ImageIcon imagen = new ImageIcon("C:\\Users\\josma\\OneDrive\\Documentos\\Universidad\\Cuarto semestre\\Programación\\Ejercicios_Progra\\Proyecto_Sistema\\images\\agua2.jpg");
+    ImageIcon imagen = new ImageIcon("C:\\Users\\josma\\OneDrive\\Documentos\\Universidad\\Cuarto semestre\\Programación\\Ejercicios_Progra\\Proyecto Sistema\\images\\agua2.jpg");
     label1 = new JLabel(imagen);
     label1.setBounds(25,15,300,150);
     add(label1);

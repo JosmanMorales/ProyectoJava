@@ -61,7 +61,7 @@ public class Licencia extends JFrame implements ActionListener, ChangeListener {
         boton2.setEnabled(true);
         add(boton2);
 
-        ImageIcon imagen = new ImageIcon("C:\\Users\\josma\\OneDrive\\Documentos\\Universidad\\Cuarto semestre\\Programación\\Ejercicios_Progra\\Proyecto_Sistema\\images\\agua3.jpg");
+        ImageIcon imagen = new ImageIcon("C:\\Users\\josma\\OneDrive\\Documentos\\Universidad\\Cuarto semestre\\Programación\\Ejercicios_Progra\\Proyecto Sistema\\images\\agua3.jpg");
         label2 = new JLabel(imagen);  
         label2.setBounds(315, 135, 300, 300);
         add(label2);
